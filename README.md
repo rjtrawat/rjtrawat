@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajatrawat303" target="blank"><img src="https://img.shields.io/twitter/follow/rajatrawat303?logo=twitter&style=for-the-badge" alt="rajatrawat303" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Data Science**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **rajatrawat303@yahoo.com**
 
